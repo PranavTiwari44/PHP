@@ -1,3 +1,4 @@
 <?php
 
-echo "hello, world!";
+$message = "Hello from a variable!";
+echo $message;
