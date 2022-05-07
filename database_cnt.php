@@ -3,7 +3,7 @@
 $db_host = "localhost";
 $db_name = "cms";
 $db_user = "cms_pran";
-$db_pass = null;
+$db_pass = "Tonystark$12";
 
 $conn = mysqli_connect($db_host, $db_user, $db_pass, $db_name);
 
